@@ -15,5 +15,4 @@ Judge Girl網站連結: http://120.126.151.220
 
 2024/12/18  
 
-![Views](https://komarev.com/ghpvc/?username=huangzz02&color=blue)
-![Custom Label](https://komarev.com/ghpvc/?username=huangzz02&label=觀看次數&color=blue)
+![觀看次數](https://komarev.com/ghpvc/?username=huangzz02&label=觀看次數&color=blue)
