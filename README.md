@@ -1,4 +1,3 @@
-411385036 黃振彰  
 這裡有我寫過的所有AC題目  
 Judge Girl網站連結: http://120.126.151.220
 
@@ -13,6 +12,7 @@ Judge Girl網站連結: http://120.126.151.220
 還能讓其他人寫不出來的時候可以參考看看  
 (雖然全部直接複製貼上就能AC 但我還是建議自己寫過)  
 
+411385036 黃振彰  
 2024/12/18  
 
 ![觀看次數](https://komarev.com/ghpvc/?username=huangzz02&style=for-the-badge&color=blue)
