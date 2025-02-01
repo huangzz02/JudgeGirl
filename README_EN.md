@@ -24,7 +24,7 @@ Each folder usually contains the following files：
 
 - **Name**：Huang Zhen-Zhang  
 - **Student ID**：[411385036](http://120.126.151.220/user/482)  
-- **Project Creation Date**：2024/12/18  
+- **Project Creation Date**：12/18/2024  
 
 ## View Count
 
