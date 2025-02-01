@@ -1,6 +1,6 @@
 # Introduction
 
-Language： [中文](./README.md) | English
+**Language**： [中文](./README.md) | English
 
 This is a backup of the problems I've solved on [Judge Girl](http://120.126.151.220/problems/domains).  
 Although these codes have passed the tests, they may not be the optimal solutions. They are for reference only.
