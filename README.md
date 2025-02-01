@@ -34,6 +34,6 @@
 
 ## 觀看次數
 
-![觀看次數](https://komarev.com/ghpvc/?username=huangzz06&style=for-the-badge&color=blue)
+![觀看次數](https://komarev.com/ghpvc/?username=huangzz02&style=for-the-badge&color=blue)
 
 ---
