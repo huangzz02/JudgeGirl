@@ -26,6 +26,13 @@ Each folder usually contains the following files：
 - **Student ID**：[411385036](http://120.126.151.220/user/482)  
 - **Project Creation Date**：12/18/2024  
 
+## Contact Me
+
+If you have any suggestions for the code, find any bugs that need fixing, feel free to reach out to me!  
+I will respond to your message as soon as possible and appreciate your valuable feedback!
+
+- **Email**：[huang0202j@gmail.com](mailto:huang0202j@gmail.com)
+
 ## View Count
 
 ![View Count](https://komarev.com/ghpvc/?username=huangzz02&style=for-the-badge&color=blue)
