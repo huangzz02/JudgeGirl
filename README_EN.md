@@ -1,5 +1,7 @@
 # Introduction
 
+Language： English | [中文](./README.md)
+
 This is a backup of the problems I've solved on [Judge Girl](http://120.126.151.220/problems/domains).  
 Although these codes have passed the tests, they may not be the optimal solutions. They are for reference only.
 
