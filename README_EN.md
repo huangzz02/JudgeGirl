@@ -7,7 +7,7 @@ Although these codes have passed the tests, they may not be the optimal solution
 
 ## Project Structure
 
-Each folder usually contains the following files:
+Each folder usually contains the following files：
 
 - **`.c` or `.py`**：Source code files  
 - **`.exe`**：Executable files (C only)  
