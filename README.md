@@ -26,6 +26,13 @@
 - **學號**：[411385036](http://120.126.151.220/user/482)  
 - **專案建立日期**：2024/12/18  
 
+## 聯絡我
+
+如果您對程式碼有任何建議、發現錯誤需要修正，歡迎隨時透過以下方式聯絡我！  
+我會盡快回覆您的訊息，並感謝您的寶貴意見！
+
+- **電子郵件**：[huang0202j@gmail.com](mailto:huang0202j@gmail.com)
+
 ## 觀看次數
 
 ![觀看次數](https://komarev.com/ghpvc/?username=huangzz02&style=for-the-badge&color=blue)
