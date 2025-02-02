@@ -24,7 +24,12 @@
 
 - **姓名**：黃振彰  
 - **學號**：[411385036](http://120.126.151.220/user/482)  
-- **專案建立日期**：2024/12/18  
+- **專案建立日期**：2024/12/18
+
+## 授權條款
+
+本專案採用 **[Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.zh_TW)** 授權。  
+您可以自由分享、修改、創建衍生作品，但請 **標註來源**，且 **不得用於商業用途**。
 
 ## 聯絡我
 
