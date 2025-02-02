@@ -28,8 +28,13 @@ Each folder usually contains the following files：
 
 ## License
 
-This project is licensed under the **[Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)**.  
-You are free to share, modify, and create derivative works, but you **must provide attribution** and **may not use it for commercial purposes**.
+This project is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).  
+You are free to use, modify, and distribute the source code or binary files of this project, for both commercial and non-commercial purposes. When using this project, you must comply with the following conditions:
+
+1. **Attribution**: If you distribute this project or derivative works based on it, you must include the original license notice and NOTICE file (if applicable) in the distributed files.
+2. **Modification Notice**: If you modify the source code, you must clearly indicate your changes in the modified files.
+
+For the full license terms, please refer to the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) official documentation.
 
 ## Contact Me
 
