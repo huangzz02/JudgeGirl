@@ -26,6 +26,11 @@ Each folder usually contains the following files：
 - **Student ID**：[411385036](http://120.126.151.220/user/482)  
 - **Project Creation Date**：12/18/2024  
 
+## License
+
+This project is licensed under the **[Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)**.  
+You are free to share, modify, and create derivative works, but you **must provide attribution** and **may not use it for commercial purposes**.
+
 ## Contact Me
 
 If you have any suggestions for the code, find any bugs that need fixing, feel free to reach out to me!  
