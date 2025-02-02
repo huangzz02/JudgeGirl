@@ -28,8 +28,13 @@
 
 ## 授權條款
 
-本專案採用 **[Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.zh_TW)** 授權。  
-您可以自由分享、修改、創建衍生作品，但請 **標註來源**，且 **不得用於商業用途**。
+本專案採用 [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) 授權。  
+您可以自由使用、修改、分發本專案的原始碼或二進位檔案，無論是商業或非商業用途。但使用時請遵守以下條件：
+
+1. **標註來源**：若您分發本專案或基於本專案的衍生作品，必須在分發的檔案中包含原始授權聲明及 NOTICE 檔案（如果有的話）。
+2. **修改聲明**：若您修改了原始碼，必須在修改的檔案中明確標註您的更改。
+
+詳細授權條款請參閱 [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) 官方文件。
 
 ## 聯絡我
 
