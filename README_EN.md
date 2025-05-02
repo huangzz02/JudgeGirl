@@ -18,7 +18,7 @@ Each folder usually contains the following files：
 
 1. **Cloud Backup**：Save my code for future reference.  
 2. **Share and Learn**：Provide reference for others, but please do not copy and paste directly!  
-3. **Improve Ranking**：Currently ranked **#1** on Judge Girl's [Ranklist](http://120.126.151.220/ranklist).
+3. **Improve Ranking**：Refer to my current [ranking](http://120.126.151.220/ranklist) in Judge Girl.
 
 ## Author
 
