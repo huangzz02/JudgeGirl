@@ -9,10 +9,9 @@ Although these codes have passed the tests, they may not be the optimal solution
 
 Each folder usually contains the following files：
 
-- **`.c` or `.py`**：Source code files  
-- **`.exe`**：Executable files (C only)  
-- **`.txt`**：Backup of code as text files  
-- **`.png`**：Screenshots of the problems
+- **`.c`, `.h`, or `.py`**: Source code files  
+- **`.exe`**: Executable file (C language only)  
+- **`.png`**: Problem screenshot  
 
 ## Project Goals
 
